@@ -1,5 +1,7 @@
 // C++ code
 //
+// código com bugs
+
 int statusBotao = 0; // declarar uma variavel
 
 void setup()
